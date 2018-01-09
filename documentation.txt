@@ -1,0 +1,6 @@
+title: Church webapp template
+author: seun fadeyi
+description: a versertile website created for churches but can be adapted to suit various purposes.
+
+credit:
+I got the framework for this off a website for free but all attempts to find it again so I can give adequate credit fell flat. So, if you recognize your code, feel free to contact me: seunfadeyi@gmail.com , I've left swaths of the code unaltered. Thanks!
