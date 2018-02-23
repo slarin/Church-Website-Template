@@ -1,11 +1,17 @@
 /***** BASE CSS *****/
 
-
+#pageBody {margin-top:50p;}
 /* Site Name */
 
-#divSiteTitle {text-decoration:none;}
+#divSiteTitle {text-decoration:none; font-family: 'Source Sans Pro', sans-serif; color:#B85305; font-size: 40px; text-shadow: rgba(0, 0, 0, 0.2) 2px 5px 9px, rgba(255, 255, 255, 0.298039) 0px -5px 35px; line-height: 30px; letter-spacing: 1px; text-transform:capitalize; font-weight: normal; font-style: normal; padding-left: 0px; padding-right: 0px;}
 
 #divTagLine {text-decoration:none;}
+
+#divLogo {margin: 0px 250px 10px 30px; float: left;}
+
+#logoText {margin: 3px 50px 10px 0px;}
+
+#logoBracket{margin: 90px 10px 150px 100px;}
 
 
 /* Headline Text */
@@ -100,11 +106,6 @@ margin-right:7px;margin-bottom:7px;float:left;
 
 /* Header Area */
 
-#decorative1 {
-margin-top:70px; padding-top:0px;
-}
-
-
 /* Menu Centered */
 
 .centered_menu {text-align:center}
@@ -136,9 +137,9 @@ img {max-width:100%;height:auto;width:auto;-moz-box-sizing:border-box;-webkit-bo
 .flex-video iframe, .flex-video object, .flex-video embed {position:absolute;top:0;left:0;width:100%;height:100%;border:none;}
 
 @media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
-        .flex-video { padding-top: 0; }
-
-    }
+        .flex-video { padding-top: 0;
+		float: none;
+    }}
 
     
 /* Additional */
@@ -224,8 +225,6 @@ body {background-image: none; background-position: initial initial; background-r
 
 #divLogo {margin-top: 9px; margin-bottom: 0px; margin-left: -3px;}
 
-#divSiteTitle {font-family: 'Source Sans Pro', sans-serif; color:#B85305; font-size: 20px; text-shadow: rgba(0, 0, 0, 0.2) 2px 5px 9px, rgba(255, 255, 255, 0.298039) 0px -5px 35px; line-height: 30px; letter-spacing: 1px; text-transform:capitalize; font-weight: normal; font-style: normal; padding-left: 0px; padding-right: 0px;}
-
 #divTagLine {font-family: 'Source Sans Pro', sans-serif; font-size: 12px; text-transform: capitalize; line-height: 15px; color:#7A7777; text-shadow: none; padding-left: 3px; padding-right: 3px; font-weight: normal;}
 
 .navContainer {margin-top: 0px;}
@@ -280,7 +279,7 @@ h1 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style:
 box-shadow:         0px 3px 5px rgba(0, 0, 0, 0.3);}
 
 
-#divFooter{font-family: 'Open Sans', sans-serif; background-color:#FFFCFC; color:#FFFCFC; padding-top: 32px; line-height: 22px; font-size: 12px; text-transform: none; background-image:url(../big-images/aaron-burden-333062.jpg); background-repeat:no-repeat;}
+#divFooter{font-family: 'Open Sans', sans-serif; background-color:#FFFCFC; color:#FFFCFC; padding-top: 32px; line-height: 22px; font-size: 12px; text-transform: none; background-image:url(../big-images/aaron-burden-333062.jpg); background-repeat:no-repeat; background-size:cover;}
 
 #divFooter a{color:rgb(255, 255, 255);}
 
@@ -382,7 +381,7 @@ h6,.page-content h6 a {font-weight: normal; font-style: normal; font-family: 'So
 
 @media (max-width: 979px) {
      #divLogo {margin-bottom:10px;}
-
+	 #logoBracket{margin-bottom: 30px;}
 
     .navbar .btn-navbar-highlight {display:inline;padding:9px 14px;margin-top:15px;}
 
@@ -409,9 +408,10 @@ h6,.page-content h6 a {font-weight: normal; font-style: normal; font-family: 'So
 
 
 @media (max-width: 767px) {    
-    #divLogo {margin-top:10px;margin-bottom:10px;}
+    #divLogo {margin-top: 0px;margin-bottom: 0px;}
+	#logoBracket{margin-bottom: 30px;}
 
-    #divSiteTitle {font-size: 25px;}
+    #divSiteTitle {font-size: 20px;}
 
     
     #divHeaderText {margin:0px;padding:10px 0px;}
@@ -461,6 +461,9 @@ h6,.page-content h6 a {font-weight: normal; font-style: normal; font-family: 'So
 
     .navbar .ddmenu {margin-top: 0px;margin-bottom: 0px;}
 
+    #logoText{margin: 30px 10px 10px 0px; float:none;}
+	
+	#divLogo {margin: auto;}
 }
 
 
