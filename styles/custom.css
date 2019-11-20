@@ -198,6 +198,10 @@ img {max-width:100%;height:auto;width:auto;-moz-box-sizing:border-box;-webkit-bo
 
 .divPanel.nobottom {padding-bottom:0px}
 
+a {
+    text-decoration: none !important;
+}
+
 
 /***** BOOTSTRAP CSS BASE OVERRIDE *****/
 .nav-pills
@@ -268,7 +272,7 @@ h1 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style:
 
 .sidebox {-webkit-box-shadow:rgba(0, 0, 0, 0.298039) 0px 1px 3px;-moz-box-shadow:rgba(0, 0, 0, 0.298039) 0px 1px 3px;box-shadow:rgba(0, 0, 0, 0.298039) 0px 1px 3px;background-color:rgb(250, 250, 250);color:rgb(51, 51, 51);border-width:1px;border-style:solid;border-color:rgb(255, 255, 255);border-radius:3px;padding:18px;margin-top:28px;}
 
-.sidebar {;}
+.sidebar a {color: #323232 !important;}
 
 .sidebox-title {line-height: 40px; font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', sans-serif; color: rgb(51, 51, 51);}
 
