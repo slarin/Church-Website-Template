@@ -280,7 +280,7 @@ h1 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style:
 box-shadow:         0px 3px 5px rgba(0, 0, 0, 0.3);}
 
 
-#divFooter{font-family: 'Open Sans', sans-serif; background-color:#FFFCFC; color:#FFFCFC; padding-top: 32px; line-height: 22px; font-size: 12px; text-transform: none; background-image:url(../big-images/aaron-burden-333062.jpg); background-repeat:no-repeat;}
+#divFooter{font-family: 'Open Sans', sans-serif; background-color:#FFFCFC; color:#FFFCFC; padding-top: 32px; line-height: 22px; font-size: 12px; text-transform: none; background-image:url(../big-images/aaron-burden-333062.jpg); background-repeat:no-repeat; background-size: cover;}
 
 #divFooter a{color:rgb(255, 255, 255);}
 
@@ -438,7 +438,7 @@ h6,.page-content h6 a {font-weight: normal; font-style: normal; font-family: 'So
     body {padding-top:0px}
 
     
-    #divFooter {margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;}
+    #divFooter {margin: 0;padding:0 20px;}
     
     #divBoxed > #divFooter {margin-left:0px;margin-right:0px;padding-left:0px;padding-right:0px;}
 
