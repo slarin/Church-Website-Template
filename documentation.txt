@@ -4,3 +4,9 @@ description: a versertile website created for churches but can be adapted to sui
 
 credit:
 I got the framework for this off a website for free but all attempts to find it again so I can give adequate credit fell flat. So, if you recognize your code, feel free to contact me: seunfadeyi@gmail.com , I've left swaths of the code unaltered. Thanks!
+
+Github pages website docs: 
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+Publishing to GoDaddy:
+https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef
