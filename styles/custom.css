@@ -296,9 +296,9 @@ h2 {font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', san
 
 .breadcrumbs a {color: rgb(18, 6, 51); font-family: 'Open Sans', sans-serif;}
 
-#divHeaderLine1{letter-spacing: 0px; word-spacing: 0px; margin-top: 0px; color: rgb(46, 46, 46); font-size: 50px; line-height: 64px; font-family: 'Source Sans Pro', sans-serif; text-transform: none; text-shadow: rgba(0, 0, 0, 0.14902) 0px 3px 5px, rgba(255, 255, 255, 0.298039) 0px -5px 35px; font-weight: normal; font-style: normal; text-align: center; background-color: rgb(200, 200, 200); opacity: 0.0; padding: 3px 10px;}
+#divHeaderLine1{letter-spacing: 0px; word-spacing: 0px; margin-top: 0px; color: rgb(46, 46, 46); font-size: 50px; line-height: 64px; font-family: 'Source Sans Pro', sans-serif; text-transform: none; text-shadow: rgba(0, 0, 0, 0.14902) 0px 3px 5px, rgba(255, 255, 255, 0.298039) 0px -5px 35px; font-weight: normal; font-style: normal; text-align: center; background-color: rgb(150, 150, 150); opacity: 0.0; padding: 3px 10px;}
 
-#divHeaderLine2 a {font-size: 20px; line-height: 30px; letter-spacing: 1px; margin-top: 11px; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#02223f; text-shadow: none; text-align: center; font-weight: normal; font-style: italic; background-color:rgb(200, 200, 200); opacity: 0.65; padding: 3px 10px; background-position: initial initial; background-repeat: initial initial;}
+#divHeaderLine2 a {font-size: 20px; line-height: 30px; letter-spacing: 1px; margin-top: 11px; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; color:#02223f; text-shadow: none; text-align: center; font-weight: normal; font-style: italic; background-color:rgb(150, 150, 150); opacity: 0.65; padding: 3px 10px; background-position: initial initial; background-repeat: initial initial;}
 
 #divHeaderLine3{margin-top: 18px; color: rgb(0, 0, 0); text-align: center; line-height: 16px; text-transform: none; font-size: 15px;}
 
@@ -322,7 +322,7 @@ a.btn, a.btn-large, a.btn-small, a.btn-mini {color:#333}
 
 #decorative1 {-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
 
-#contentOuterSeparator{margin-top: 0px; border-top-color: rgb(200, 200, 200); border-top-width: 0px; border-top-style: solid; margin-bottom: 25px; height: 0px; background-color: transparent;}
+#contentOuterSeparator{margin-top: 0px; border-top-color: rgb(150, 150, 150); border-top-width: 0px; border-top-style: solid; margin-bottom: 25px; height: 0px; background-color: transparent;}
 
 #footerOuterSeparator{margin-top: 55px; border-top-width: 0px; border-top-style: solid; border-top-color: rgb(41, 40, 40);}
 
@@ -346,27 +346,27 @@ h6,.page-content h6 a {font-weight: normal; font-style: normal; font-family: 'So
 
 .nav .dropdown-toggle:hover .caret {border-top-color:rgb(0, 0, 0);border-bottom-color:rgb(0, 0, 0);}
 
-.navbar .dropdown-menu, .dropdown-menu {background-color:rgb(200, 200, 200); border-radius:1px;}
+.navbar .dropdown-menu, .dropdown-menu {background-color:rgb(150, 150, 150); border-radius:1px;}
 
 .navbar .dropdown-menu li > a, .dropdown-menu li > a, .navbar .nav-pills .open .dropdown-toggle {color:#3a9b58;}
 
-.navbar .dropdown-menu li > a:hover, .navbar .dropdown-menu .active > a, .navbar .dropdown-menu .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a, .navbar .nav-pills .open a.dropdown-toggle:hover {filter:none;color:rgb(200, 200, 200);background-color:#3a9b58;background-image:none;}
+.navbar .dropdown-menu li > a:hover, .navbar .dropdown-menu .active > a, .navbar .dropdown-menu .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a, .navbar .nav-pills .open a.dropdown-toggle:hover {filter:none;color:rgb(150, 150, 150);background-color:#3a9b58;background-image:none;}
 
-.navbar .nav-pills > li > a {margin-left: 2px; margin-right: 2px; padding: 30px; border-radius:2px; color: rgb(200, 200, 200); border-bottom-style: none;}
+.navbar .nav-pills > li > a {margin-left: 2px; margin-right: 2px; padding: 30px; border-radius:2px; color: rgb(150, 150, 150); border-bottom-style: none;}
 
-.navbar .nav-pills > li > a:hover, .navbar .nav li.dropdown.open.active > .dropdown-toggle, .navbar .nav-pills > li > a:focus {color: rgb(200, 200, 200); background-color:#00515f; border-bottom-style: none;}
+.navbar .nav-pills > li > a:hover, .navbar .nav li.dropdown.open.active > .dropdown-toggle, .navbar .nav-pills > li > a:focus {color: rgb(150, 150, 150); background-color:#00515f; border-bottom-style: none;}
 
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle {background:none}
 
-.navbar .nav-pills > .active > a, .navbar .nav-pills > .active > a:hover, .navbar .nav-pills li.dropdown.open > .dropdown-toggle, .navbar .nav-pills li.dropdown.active > .dropdown-toggle {color: rgb(200, 200, 200); background-color:#00515f; border-bottom-style: none;}
+.navbar .nav-pills > .active > a, .navbar .nav-pills > .active > a:hover, .navbar .nav-pills li.dropdown.open > .dropdown-toggle, .navbar .nav-pills li.dropdown.active > .dropdown-toggle {color: rgb(150, 150, 150); background-color:#00515f; border-bottom-style: none;}
 
 .navbar .ddmenu {margin-top:-2px;margin-bottom:0px}
 
 .navbar .nav-pills li.dropdown > .dropdown-toggle .caret, .navbar .nav-pills li.dropdown.open > .dropdown-toggle .caret, .navbar .nav-pills li.dropdown.active > .dropdown-toggle .caret, .navbar .nav-pills li.dropdown.open.active > .dropdown-toggle .caret {border-top-color:rgb(255, 255, 255);border-bottom-color:rgb(255, 255, 255);}
 
-.navbar .nav-pills li.dropdown > .dropdown-toggle:hover .caret {border-top-color:rgb(200, 200, 200);border-bottom-color:rgb(200, 200, 200);}
+.navbar .nav-pills li.dropdown > .dropdown-toggle:hover .caret {border-top-color:rgb(150, 150, 150);border-bottom-color:rgb(150, 150, 150);}
 
-.navbar .nav-pills li.dropdown.active > .dropdown-toggle .caret {border-top-color:rgb(200, 200, 200);border-bottom-color:rgb(200, 200, 200);}
+.navbar .nav-pills li.dropdown.active > .dropdown-toggle .caret {border-top-color:rgb(150, 150, 150);border-bottom-color:rgb(150, 150, 150);}
 
 .dropdown-menu .sub-menu {left:100%;position:absolute;top:0;visibility:hidden;margin-top:-1px;}
 
