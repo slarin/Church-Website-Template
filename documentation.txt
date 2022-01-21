@@ -10,3 +10,6 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-gi
 
 Publishing to GoDaddy:
 https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef
+
+Embed vimeo channel:
+https://www.sociablekit.com/tutorials/embed-vimeo-channel-website/#copy-embed-code 
