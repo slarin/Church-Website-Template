@@ -3,7 +3,11 @@ author: seun fadeyi
 description: a versertile website created for churches but can be adapted to suit various purposes.
 
 credit:
-I got the framework for this off a website for free but all attempts to find it again so I can give adequate credit fell flat. So, if you recognize your code, feel free to contact me: seunfadeyi@gmail.com , I've left swaths of the code unaltered. Thanks!
+I got the framework for this off a website for free but all attempts to find it again so I can give adequate credit fell flat. 
+So, if you recognize your code, feel free to contact me: seunfadeyi@gmail.com , I've left swaths of the code unaltered. Thanks!
+
+
+Michael Taylor comments on QBC website:
 
 Github pages website docs: 
 https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
@@ -13,3 +17,9 @@ https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef
 
 Embed vimeo channel:
 https://www.sociablekit.com/tutorials/embed-vimeo-channel-website/#copy-embed-code 
+
+Embeding google calendar (from quilcenebiblechurch@gmail.com):
+https://support.google.com/calendar/answer/41207?hl=en 
+
+Flavicon generation:
+https://realfavicongenerator.net/favicon_result?file_id=p1fq054qk21pro1bhg1peiroo10au6 
